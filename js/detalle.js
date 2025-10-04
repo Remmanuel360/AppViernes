@@ -20,4 +20,4 @@ async function detalle(pokemon){
         `
 }
 
-detalle("pikachu")
+
